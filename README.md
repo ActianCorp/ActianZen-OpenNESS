@@ -1,3 +1,6 @@
+```text
+Copyright (c) 2020 Actian Corporation
+```
 ## Actian Zen Containers for OpenNESS
 
 This project provides Docker container images of the Actian Zen database and a sample application that are compatible with the [Intel Smart Edge Open Platform](https://www.openness.org/), formerly known as OpenNESS.
